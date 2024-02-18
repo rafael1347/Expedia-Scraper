@@ -22,12 +22,6 @@ Modify the script according to your requirements, especially the search criteria
 Run the script:
 python Expedia.py or python3 Expedia.py
 
-## Parameters
-search_query: Your desired search query (e.g., destination, check-in/out dates, number of guests).
-output_file: Name of the output CSV file where scraped data will be saved.
-Example
-python
-Copy code
 ### Define search criteria
 browser.get("expedia trip link")
 
